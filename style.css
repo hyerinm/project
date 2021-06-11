@@ -6,6 +6,10 @@ html, body{
   font-family: 'Poppins', sans-serif;
   color: #222;
 }
+
+.container-fluid{
+  float: right;
+}
 .navbar {
   padding: .8rem;
 }
