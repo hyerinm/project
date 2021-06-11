@@ -180,10 +180,7 @@ button[type="submit"]:hover{
     pointer-events: none;
   }
 }
-.footer,
-.push{
-  height: 90%;
-}
+
 
 
 /*
