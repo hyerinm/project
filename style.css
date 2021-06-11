@@ -7,9 +7,6 @@ html, body{
   color: #222;
 }
 
-.container-fluid{
-  float: right;
-}
 .navbar {
   padding: .8rem;
 }
@@ -185,7 +182,7 @@ button[type="submit"]:hover{
 }
 .footer,
 .push{
-  height: 25px;
+  height: 90%px;
 }
 
 
